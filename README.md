@@ -43,7 +43,7 @@ For email-related features, the project uses [React Email & Resend](https://rese
 
 1. Create a `.env` file in the root directory of the project.
 2. Obtain your RESEND_API_KEY from [resend.com](https://resend.com/).
-3. Add the following line to the `.env` file:
+3. Add the following line to the `.env` file: RESEND_API_KEY=your_api_key
 
 ## Deployment
 
