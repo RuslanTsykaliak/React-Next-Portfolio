@@ -24,6 +24,12 @@ To run this project locally, follow these steps:
 4. Start the development server: `npm run dev`
 5. Access the application at `http://localhost:3000`
 
+## Configuration
+
+1. Create a `.env` file in the root directory of the project.
+2. Obtain your RESEND_API_KEY from [https://resend.com/](https://resend.com/).
+3. Add the following line to the `.env` file:
+
 ## Troubleshooting
 
 If you encounter any issues, you can try the following steps:
