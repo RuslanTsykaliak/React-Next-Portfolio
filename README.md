@@ -51,6 +51,4 @@ The project is hosted on [Vercel](https://vercel.com/). Deployment is automatica
 
 ---
 
-Feel free to explore the codebase and customize the website to your liking. If you have any questions or need assistance, please don't hesitate to reach out.
-
 Happy coding!
