@@ -14,10 +14,19 @@ import { useTheme } from "@/context/theme-context"
 // Experience component
 export default function Experience() {
   // Use the useSectionInView hook to track if the section is in view
-  const { ref } = useSectionInView("Experience")
+  const { ref, inView } = useSectionInView("Experience")
 
   // Use the useTheme hook to access the current theme
   const { theme } = useTheme()
+
+  // Make experience visible
+  const [isVisible, setIsVisible] = React.useState(false)
+
+  React.useEffect(() => {
+    if (inView) {
+      setIsVisible(true)
+    }
+  }, [inView])
 
   return (
     // Experience section
@@ -32,6 +41,7 @@ export default function Experience() {
           <React.Fragment key={index}>
             {/* Individual timeline element */}
             <VerticalTimelineElement
+            visible={isVisible} // add to make visible with next.js 14
               contentStyle={{
                 // Set content background color based on theme
                 background:

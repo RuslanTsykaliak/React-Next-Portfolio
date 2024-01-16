@@ -20,8 +20,8 @@ To run this project locally, follow these steps:
 
 1. Clone this repository: `git clone https://github.com/RuslanTsykaliak/React-Next-Portfolio.git`
 2. Navigate to the project directory: `cd React-Next-Portfolio`
-3. Install project dependencies: `npm install`
-4. Start the development server: `npm run dev`
+3. Install project dependencies: `pnpm install`
+4. Start the development server: `pnpm run dev`
 5. Access the application at `http://localhost:3000`
 
 ## Troubleshooting
@@ -29,7 +29,7 @@ To run this project locally, follow these steps:
 If you encounter any issues, you can try the following steps:
 
 1. Delete the `.next` folder in the project directory.
-2. Restart the development server using `npm run dev`.
+2. Restart the development server using `pnpm run dev`.
 
 ## Tailwind CSS Installation
 

@@ -24,7 +24,7 @@ export function useSectionInView(sectionName: SectionName, threshold = 0.75) {
 
   // Return the reference that needs to be attached to the section element.
   return {
-    ref,
+    ref, inView // adding "inView"
   };
 }
 
