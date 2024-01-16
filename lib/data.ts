@@ -32,6 +32,10 @@ export const links = [
     name: "Contact",
     hash: "#contact",
   },
+  {
+    name: "Go To My Blog",
+    hash: "https://next-js-14-news-blog.vercel.app",
+  }
 ] as const
 
 // Array of experience data

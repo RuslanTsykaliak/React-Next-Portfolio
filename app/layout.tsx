@@ -12,8 +12,8 @@ const inter = Inter({ subsets: ["latin"] })
 
 // Metadata for the page
 export const metadata = {
-  title: "Ruslan | Personal Portfolio",
-  description: "Ruslan is a junior full stack developer.",
+  title: "Ruslan Tsykaliak | Personal Portfolio",
+  description: "Ruslan Tsykaliak is a full stack developer.",
 }
 
 // The main layout component
