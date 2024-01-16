@@ -1,6 +1,5 @@
 import React from "react";
 import { FaPaperPlane } from "react-icons/fa";
-// @ts-expect-error
 import { useFormStatus } from "react-dom";
 
 // Define the SubmitBtn component
