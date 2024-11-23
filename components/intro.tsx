@@ -37,7 +37,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://unsplash.com/photos/yoZdFisL5qw" // https://unsplash.com  //https://i.ibb.co/gt8Lnmf/ruslan.png
+              src="https://ibb.co/9cnpzdw" // Doesn't work - https://unsplash.com/photos/yoZdFisL5qw //https://i.ibb.co/gt8Lnmf/ruslan.png
               alt="Ruslan portrait"
               width="192"
               height="192"
