@@ -33,7 +33,7 @@ export const links = [
     hash: "#contact",
   },
   {
-    name: "Go To My Blog",
+    name: "Blog",
     hash: "https://next-js-14-news-blog.vercel.app",
   }
 ] as const

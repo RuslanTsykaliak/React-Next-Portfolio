@@ -37,7 +37,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://unsplash.com/photos/yoZdFisL5qw" // https://unsplash.com  https://i.ibb.co/gt8Lnmf/ruslan.png
+              src="https://unsplash.com/photos/yoZdFisL5qw" // https://unsplash.com  //https://i.ibb.co/gt8Lnmf/ruslan.png
               alt="Ruslan portrait"
               width="192"
               height="192"
@@ -103,7 +103,7 @@ export default function Intro() {
         {/* Download CV link */}
         <a
           className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10"
-          href="/Ruslan_Tsykaliak_Resume.docx"  // Ruslan_Tsykaliak_-_React_NextJS_Developer.pdf
+          href="/Ruslan_Tsykaliak_Resume.docx"  //Ruslan_Tsykaliak_-_React_NextJS_Developer.pdf
           download
         >
           Download CV{" "}
