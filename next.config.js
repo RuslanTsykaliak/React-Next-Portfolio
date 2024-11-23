@@ -5,7 +5,8 @@ const nextConfig = {
       {
         protocol: "https",
         hostname: "i.ibb.co",
-        // hostname: "unsplash.com",
+        hostname: "ibb.co",
+        hostname: "unsplash.com",
       },
     ],
   },
