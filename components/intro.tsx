@@ -37,7 +37,12 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://ibb.co/9cnpzdw" // Doesn't work - https://unsplash.com/photos/yoZdFisL5qw //https://i.ibb.co/gt8Lnmf/ruslan.png
+              src="https://i.ibb.co/J2rwJCR/im80085b.png"
+              // Doesn't work - https://unsplash.com/photos/yoZdFisL5qw 
+              //https://i.ibb.co/gt8Lnmf/ruslan.png
+              // https://i.ibb.co/djBf1Hb/ruslan-t.jpg
+              //  https://ibb.co/9cnpzdw
+
               alt="Ruslan portrait"
               width="192"
               height="192"
