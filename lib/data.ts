@@ -43,7 +43,7 @@ export const experiencesData = [
   {
     title: "freeCodeCamp",
     location: "Remote",
-    description: "Completed many a full-stack web development courses, where I learned the fundamentals of JavaScript, HTML, CSS, React, Node.js, and more.",
+    description: "Completed many a full stack web development courses, where I learned the fundamentals of JavaScript, HTML, CSS, React, Node.js, and more.",
     icon: React.createElement(LuGraduationCap),
     date: "2022",
   },
@@ -57,7 +57,7 @@ export const experiencesData = [
   {
     title: "Full Stack Developer",
     location: "Remote",
-    description: "Currently working as a full-stack developer, where I am responsible for the entire development lifecycle of web applications. I have experience with all aspects of web development, including front-end, back-end.",
+    description: "Currently working as a full stack developer, where I am responsible for the entire development lifecycle of web applications. I have experience with all aspects of web development, including front-end, back-end.",
     icon: React.createElement(FaReact),
     date: "2023 - present",
   },
@@ -69,7 +69,7 @@ export const projectsData = [
   {
     title: "CorpComment",
     description:
-      "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
+      "I worked as a full stack developer on this startup project for 2 years. Users can give public feedback to companies.",
     tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
     imageUrl: corpcommentImg,
   },
