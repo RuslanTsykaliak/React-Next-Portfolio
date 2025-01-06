@@ -48,15 +48,15 @@ export const experiencesData = [
     date: "2022",
   },
   {
-    title: "Front-End Developer",
+    title: "Front End Developer",
     location: "Remote",
     description: "Developed and maintained user-facing web applications using React, Redux, and Next.js.",
     icon: React.createElement(CgWorkAlt),
     date: "2022 - 2023",
   },
   {
-    title: "Full-Stack Developer",
-    location: "Lviv, Ukraine",
+    title: "Full Stack Developer",
+    location: "Remote",
     description: "Currently working as a full-stack developer, where I am responsible for the entire development lifecycle of web applications. I have experience with all aspects of web development, including front-end, back-end.",
     icon: React.createElement(FaReact),
     date: "2023 - present",
