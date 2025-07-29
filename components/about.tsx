@@ -26,8 +26,8 @@ export default function About() {
       <p className="mb-3">
         After graduating with a degree in{" "}
         <span className="font-medium">Finance and Banking</span>, I decided to
-        pursue my passion for new technologies. I started leanig aoubt structure
-        of iPhones and how they work, after it I desited to learned more about{" "}
+        pursue my passion for new technologies. I started learning about the structure
+        of iPhones and how they work. After that, I decided to learn more about{" "}
         <span className="font-medium">full-stack web development</span>.{" "}
         <span className="italic">My favorite part of programming</span> is the
         issue-solving aspect. I <span className="underline">love</span> the
@@ -36,15 +36,15 @@ export default function About() {
         <span className="font-medium">
           React, Next.js, Node.js, and Nest.js
         </span>
-        . I am also familiar with TypeScript and PHP. I am always looking to
+        . I am also familiar with TypeScript and PHP. I am always eager to
         learn new technologies. I am currently looking for a{" "}
         <span className="font-medium">position</span> as a software developer.
       </p>
 
       <p>
         <span className="italic">When I'm not coding</span>, I enjoy watching
-        videos and exercising. I also enjoy{" "}
-        <span className="font-medium">learning new things</span>. Currently, I
+        videos, exercising, and reading. I also enjoy{" "}
+        <span className="font-medium">learning new things</span>. At the moment, I
         am learning about{" "}
         <span className="font-medium">history and psychology</span>.
         Additionally, I'm learning Linux system administration.
