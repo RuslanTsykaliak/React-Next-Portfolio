@@ -37,7 +37,7 @@ export default function Intro() {
             }}
           >
             <Image
-              scr="https://ibb.co/23S8MJ2P"
+              scr="https://i.ibb.co/fd98NJRt/ruslan-02-03-2026-copy.jpg"
               // src="https://i.ibb.co/J2rwJCR/im80085b.png" // Old image
               // Doesn't work - https://unsplash.com/photos/yoZdFisL5qw 
               //https://i.ibb.co/gt8Lnmf/ruslan.png
