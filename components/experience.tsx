@@ -41,7 +41,7 @@ export default function Experience() {
           <React.Fragment key={index}>
             {/* Individual timeline element */}
             <VerticalTimelineElement
-            visible={isVisible} // add to make visible with next.js 14
+              visible={isVisible} // add to make visible with next.js 14
               contentStyle={{
                 // Set content background color based on theme
                 background:

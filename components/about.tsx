@@ -24,30 +24,22 @@ export default function About() {
       <SectionHeading>About me</SectionHeading>
 
       <p className="mb-3">
-        After graduating with a degree in{" "}
-        <span className="font-medium">Finance and Banking</span>, I decided to
-        pursue my passion for new technologies. I started learning about the structure
-        of iPhones and how they work. After that, I decided to learn more about{" "}
-        <span className="font-medium">full-stack web development</span>.{" "}
-        <span className="italic">My favorite part of programming</span> is the
-        issue-solving aspect. I <span className="underline">love</span> the
-        feeling of finally figuring out a solution to interesting cases. My core
-        stack is{" "}
-        <span className="font-medium">
-          React, Next.js, Node.js, and Nest.js
-        </span>
-        . I am also familiar with TypeScript and PHP. I am always eager to
-        learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">position</span> as a software developer.
+        I am a <span className="font-medium">lifelong learner</span> with a strong
+        <span className="font-medium"> obsession over quality</span>. I value delivering
+        <span className="font-medium"> high-quality work</span> and take pride in solving complex problems with precision and care.
+      </p>
+
+      <p className="mb-3">
+        My technical expertise spans a diverse stack, including
+        <span className="font-medium"> Java, TypeScript, React, Next.js, Node.js, Python, Perl, PHP, Shell scripting</span>, and
+        <span className="font-medium"> Linux/Unix systems</span>. I specialize in building secure, scalable, and cloud-native applications, with a focus on
+        <span className="italic"> cybersecurity and automation</span>.
       </p>
 
       <p>
-        <span className="italic">When I'm not coding</span>, I enjoy watching
-        videos, exercising, and reading. I also enjoy{" "}
-        <span className="font-medium">learning new things</span>. At the moment, I
-        am learning about{" "}
-        <span className="font-medium">history and psychology</span>.
-        Additionally, I'm learning Linux system administration.
+        <span className="italic">Outside of work</span>, I enjoy
+        <span className="font-medium">reading, watching YouTube, exercising</span>, and
+        <span className="font-medium"> helping others</span>. These activities keep me grounded and motivated to continuously grow both personally and professionally.
       </p>
     </motion.section>
   )

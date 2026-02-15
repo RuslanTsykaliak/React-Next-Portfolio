@@ -37,7 +37,7 @@ export default function Intro() {
             }}
           >
             <Image
-              scr="https://i.ibb.co/fd98NJRt/ruslan-02-03-2026-copy.jpg"
+              src="https://i.ibb.co/fd98NJRt/ruslan-02-03-2026-copy.jpg"
               // src="https://i.ibb.co/J2rwJCR/im80085b.png" // Old image
               // Doesn't work - https://unsplash.com/photos/yoZdFisL5qw 
               //https://i.ibb.co/gt8Lnmf/ruslan.png
@@ -76,12 +76,12 @@ export default function Intro() {
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <span className="font-bold">Hello, I'm Ruslan.</span> I'm a{" "}
-        <span className="font-bold"> full stack developer.</span>{" "}
-        {/* Commented out the experience part */}
-        {/* with{" "} <span className="font-bold">X years</span> of experience. */}
-        I enjoy building <span className="italic">sites & apps</span>. My focus
-        is <span className="underline">React (Next.js)</span>.
+        <span className="font-bold">Hello, I'm Ruslan.</span> I'm a
+        <span className="font-bold"> Senior Software Engineer</span> with
+        <span className="font-bold"> 8+ years</span> of experience building
+        secure, scalable, and cloud-native applications. Currently, I contribute to
+        <span className="font-bold"> AT&T's Cybersecurity division</span>, focusing on
+        <span className="underline"> cybersecurity and scalable architectures</span>.
       </motion.h1>
 
       {/* Buttons and links */}
@@ -109,7 +109,7 @@ export default function Intro() {
         {/* Download CV link */}
         <a
           className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10"
-          href="/Ruslan_Tsykaliak_Resume.docx"  //Ruslan_Tsykaliak_-_React_NextJS_Developer.pdf
+          href="/Ruslan_Tsykaliak_Resume.pdf"  //href="/Ruslan_Tsykaliak_Resume.docx"  //Ruslan_Tsykaliak_-_React_NextJS_Developer.pdf
           download
         >
           Download CV{" "}
